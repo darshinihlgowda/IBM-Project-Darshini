@@ -1,0 +1,7 @@
+Project: IBM-Project-Darshini
+Platform: IBM Watsonx.ai and IBM Cloud
+Agent Type: AI Assistant built using Watsonx Agent Builder
+Tools Used: Watsonx.ai Studio, IBM Granite Model, IBM Cloud Object Storage
+Description: This agent is built to The Athlete Performance Analysis Assistant
+The Challenge.
+It uses IBM Watsonx LLMs to answer queries.
